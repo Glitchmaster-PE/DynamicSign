@@ -1,4 +1,4 @@
-DynamicSigns
+DynamicSign
 ============
 
 Live signs
